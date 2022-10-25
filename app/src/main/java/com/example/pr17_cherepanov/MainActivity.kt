@@ -1,4 +1,4 @@
-package com.example.pr17_cherepanov
+package com.example.PR17-Cherepanov
 
 
 import android.R.layout
